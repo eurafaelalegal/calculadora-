@@ -18,4 +18,3 @@ function calcular() {
     display.value = 'Erro';
   }
 }
-
