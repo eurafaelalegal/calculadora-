@@ -13,8 +13,8 @@ function limpar() {
 // Função para calcular a expressão matemática
 function calcular() {
   try {
-    display.value = eval(display.value);
+    display.value = eval(display.value); // Calcula a expressão no display
   } catch (error) {
-    display.value = 'Erro';
+    display.value = 'Erro'; // Se houver erro na expressão, exibe "Erro"
   }
 }

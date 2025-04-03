@@ -15,10 +15,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-  }
-  
-  .tela {
-    margin-bottom: 20px;
+    width: 250px;
   }
   
   #display {
@@ -65,7 +62,7 @@ body {
     background-color: #b2001a;
   }
   
-  /* Adicionando a logo do Corinthians (opcional) */
+  /* Logo do Corinthians */
   .calculadora {
     position: relative;
   }
@@ -78,4 +75,3 @@ body {
     transform: translateX(-50%);
     width: 60px;
   }
-  
